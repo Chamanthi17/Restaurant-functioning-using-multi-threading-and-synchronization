@@ -87,3 +87,10 @@ Shared resource management (tables, machines)
 Producer-consumer model for order processing
 
 Handling concurrent customer requests fairly
+
+---
+# 🙋‍♀️ Author
+
+Chamanthi Pyneni
+
+This project deepened my understanding of Java concurrency and synchronization while simulating real-world restaurant operations in an engaging way.
