@@ -2,15 +2,17 @@
 
 This Java project simulates the functioning of a restaurant using multi-threading and synchronization primitives. The model handles essential restaurant operations such as:
 
-Checking table availability
+  Checking table availability
 
-Assigning tables to customers in order of arrival
+  Assigning tables to customers in order of arrival
 
-Managing cook availability
+  Managing cook availability
 
-Tracking availability of menu items (burgers, fries, coke)
+  Tracking availability of menu items (burgers, fries, coke)
 
-Coordinating concurrent tasks to satisfy customers efficiently
+  Coordinating concurrent tasks to satisfy customers efficiently
+
+---
 
 # 🗂️ Project Structure
 
@@ -46,6 +48,8 @@ README.md             # This file
 
 Final presentation.pdf# Project presentation slides
 
+---
+
 # 🚀 How It Works
 
 Multi-threading: Different threads simulate cooks, diners, and machines working in parallel.
@@ -55,6 +59,8 @@ Synchronization: Ensures that tasks like table assignment and food preparation h
 Order Management: Orders are queued and processed in the order of arrival.
 
 Resource Availability: Tables, cooks, and machines are shared resources synchronized to prevent race conditions.
+
+---
 
 # ⚙️ How to Run Locally
 
@@ -67,6 +73,8 @@ Run the main program:
 java Restaurantfolder.App
 
 The program reads input files (input1.txt, input2.txt) for orders. Make sure these files are in the same directory.
+
+---
 
 # 🛠 Concepts Demonstrated
 
