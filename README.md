@@ -12,9 +12,9 @@ This Java project simulates the functioning of a restaurant using multi-threadin
 
   Coordinating concurrent tasks to satisfy customers efficiently
 
----
 
-# 🗂️ Project Structure
+
+## 🗂️ Project Structure
 
 Restaurantfolder/
 
@@ -48,9 +48,9 @@ README.md             # This file
 
 Final presentation.pdf# Project presentation slides
 
----
 
-# 🚀 How It Works
+
+## 🚀 How It Works
 
 Multi-threading: Different threads simulate cooks, diners, and machines working in parallel.
 
@@ -60,9 +60,8 @@ Order Management: Orders are queued and processed in the order of arrival.
 
 Resource Availability: Tables, cooks, and machines are shared resources synchronized to prevent race conditions.
 
----
 
-# ⚙️ How to Run Locally
+## ⚙️ How to Run Locally
 
 Compile all .java files:
 
@@ -74,9 +73,8 @@ java Restaurantfolder.App
 
 The program reads input files (input1.txt, input2.txt) for orders. Make sure these files are in the same directory.
 
----
 
-# 🛠 Concepts Demonstrated
+## 🛠 Concepts Demonstrated
 
 Java Threads (extends Thread or implements Runnable)
 
@@ -88,8 +86,8 @@ Producer-consumer model for order processing
 
 Handling concurrent customer requests fairly
 
----
-# 🙋‍♀️ Author
+
+## 🙋‍♀️ Author
 
 Chamanthi Pyneni
 
